@@ -129,16 +129,22 @@ Moving-average windows tested:
 * Jupyter Notebook
 
 ---
+Sports Analytics Podcast
+
+In addition to predictive modeling research, this project also included sports analytics podcast discussions focused on NCAA football performance evaluation, ELO-based prediction systems, and data-driven sports insights.
+
+🎙️ Podcast Link:
+https://youtu.be/XauI6LExnvQ?si=F9lowzr4bwqtiMey
+
+---
 
 # Repository Structure
 
 ```text
 data/           Raw and processed datasets
 notebooks/      Jupyter notebooks
-src/             Python scripts for modeling
 outputs/         Generated predictions and reports
-images/          Visualizations and charts
-docs/             Supporting documentation
+
 ```
 
 ---
